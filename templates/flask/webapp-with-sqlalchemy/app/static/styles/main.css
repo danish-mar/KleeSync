@@ -1,0 +1,40 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffe4e1;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    max-width: 700px;
+}
+
+.klee-img {
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+pre {
+    background: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: left;
+    overflow-x: auto;
+}
+
+ul {
+    text-align: left;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+h2, h3 {
+    color: #ff4d4d;
+}
